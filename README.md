@@ -62,3 +62,9 @@ Logistics Analysts: Identify cost drivers and improve delivery efficiency.
 Sustainability Teams: Track emissions and evaluate EV adoption impact.
 
 Data Scientists: Build predictive models for delivery success and cost forecasting.
+
+# 🚚 Fleet Performance Analysis
+
+Here’s the fleet performance dashboard:
+
+<img width="996" height="860" alt="image" src="https://github.com/user-attachments/assets/957ae671-a244-4adf-8fc7-43a78422920d" />
